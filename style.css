@@ -75,6 +75,10 @@ body > .info {
     padding: var(--padding);
 }
 
+.info {
+    padding: var(--padding);
+}
+
 .info .metadata .hashtags {
     display: flex;
     font-size: var(--font-small);
